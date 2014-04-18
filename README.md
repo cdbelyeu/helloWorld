@@ -1,6 +1,0 @@
-helloWorld
-==========
-
-setup
-Hello World!
-
